@@ -20,3 +20,5 @@ netdom query fsmo
 repadmin /replsummary
 Uninstall-ADDSDomainController
 ```
+
+<img width="1377" height="925" alt="image" src="https://github.com/user-attachments/assets/c593663e-ce87-4c9c-978a-59080b7a9c8c" />
